@@ -1,9 +1,9 @@
 # Folders to ignore
-*/data/
-*/configs/
-*/config_data/
-*/venv/
-*/venv_spihrl/
+SPI_HPC/data/
+SPI_HPC/configs/
+SPI_HPC/config_data/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
