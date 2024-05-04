@@ -2,7 +2,7 @@
 SPI_HPC/data/
 SPI_HPC/configs/
 SPI_HPC/config_data/
-
+SPI_HRL/mdp_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
